@@ -1,0 +1,1 @@
+# near_payment_receiver
