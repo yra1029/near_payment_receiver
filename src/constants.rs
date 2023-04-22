@@ -1,0 +1,1 @@
+pub const NANOS_IN_DAY: u64 = 86400000000000;
